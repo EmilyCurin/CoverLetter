@@ -1,0 +1,271 @@
+{
+  "privacy": {
+    "planted_secrets_caught": 120,
+    "planted_secrets_total": 120,
+    "catch_rate": 1.0
+  },
+  "results": [
+    {
+      "kind": "cloud",
+      "source": "cloud:gpt-5.6-luna",
+      "latency_seconds": 6.287,
+      "score": {
+        "role_specificity": 2,
+        "evidence_use": 2,
+        "motivation_use": 1,
+        "professionalism": 2,
+        "length_fit": 2,
+        "privacy": 2
+      },
+      "score_total": 11,
+      "score_max": 12,
+      "letter": "Dear Hiring Committee,\n\nI am writing to express my interest in the Education Program Coordinator position at Fundación Aprender. As a STEM educator with three years of experience, I have developed a strong foundation in teaching, workshop facilitation, scheduling, and the practical coordination required to create engaging learning experiences.\n\nIn my current role as a STEM teacher, I have designed and delivered 20 STEM workshops. This experience has strengthened my ability to organize educational activities, guide participants through hands-on learning, and adapt sessions to support clear and meaningful outcomes. It has also given me an appreciation for the importance of thoughtful planning, reliable documentation, and effective communication in the delivery of successful programs.\n\nI am particularly motivated by the opportunity to help scale hands-on learning programs. Fundación Aprender’s Education Program Coordinator role appeals to me because it brings together program coordination and educational impact—areas that closely align with both my experience and professional interests. I would welcome the opportunity to contribute my classroom perspective while supporting the planning, documentation, communication, and scheduling involved in delivering strong programs.\n\nI am a committed educator who values organized implementation, collaboration, and accessible learning. I would be pleased to bring my experience facilitating STEM workshops and coordinating educational activities to Fundación Aprender.\n\nThank you for considering my application. I look forward to the opportunity to discuss how my background and motivation could support your programs.\n\nSincerely,\nAna López",
+      "case_id": "V01"
+    },
+    {
+      "kind": "cloud",
+      "source": "cloud:gpt-5.6-luna",
+      "latency_seconds": 3.725,
+      "score": {
+        "role_specificity": 2,
+        "evidence_use": 2,
+        "motivation_use": 1,
+        "professionalism": 2,
+        "length_fit": 2,
+        "privacy": 2
+      },
+      "score_total": 11,
+      "score_max": 12,
+      "letter": "Dear Hiring Team,\n\nI am writing to express my interest in the Technical Project Coordinator position at Nova Systems. As a project engineer with four years of experience, I am interested in combining my technical background with strong coordination and communication skills to support successful project delivery.\n\nIn my current role, I have developed experience in project tracking, stakeholder communication, and documentation. I also coordinated a cross-functional prototype launch, an experience that strengthened my ability to help align contributors, maintain project information, and support progress across different areas of work. These skills closely match the coordination, documentation, and communication responsibilities outlined for this position.\n\nI am particularly motivated by the opportunity to contribute to Nova Systems in a role that connects technical work with structured project coordination. I would bring a practical understanding of engineering environments, attention to project details, and a collaborative approach to working with stakeholders. I am confident that my experience supporting cross-functional work would allow me to contribute positively to your team.\n\nThank you for considering my application. I would welcome the opportunity to discuss how my background and interest in technical project coordination align with the needs of Nova Systems.\n\nKind regards,\nCarlos Méndez",
+      "case_id": "V02"
+    },
+    {
+      "kind": "cloud",
+      "source": "cloud:gpt-5.6-luna",
+      "latency_seconds": 4.475,
+      "score": {
+        "role_specificity": 2,
+        "evidence_use": 2,
+        "motivation_use": 1,
+        "professionalism": 2,
+        "length_fit": 2,
+        "privacy": 2
+      },
+      "score_total": 11,
+      "score_max": 12,
+      "letter": "Dear Hiring Team,\n\nI am writing to express my interest in the Program Operations Associate position at Community Health Lab. With five years of experience as an Operations Assistant, I have developed a strong foundation in operations, logistics, and reporting, along with a practical understanding of how thoughtful coordination supports effective programs.\n\nIn my current role, I have improved attendance tracking for community sessions. This experience has strengthened my attention to detail and reinforced the value of clear, reliable documentation for understanding participation and supporting ongoing program activities. I am comfortable contributing to the organizational work that helps teams stay informed, prepared, and aligned.\n\nThe responsibilities outlined for this position—including coordination, documentation, and communication—closely match both my experience and the type of work I enjoy. I take pride in helping programs run smoothly by managing operational details carefully, maintaining accurate records, and communicating information clearly with the people involved.\n\nI am particularly interested in Community Health Lab because the role would allow me to apply my operational skills in support of community-focused work. I would welcome the opportunity to contribute as a dependable and organized member of your team while continuing to grow in program operations.\n\nThank you for considering my application. I look forward to the opportunity to discuss how my experience and approach could support Community Health Lab’s programs.\n\nSincerely,\nMaría Pérez",
+      "case_id": "V03"
+    },
+    {
+      "kind": "cloud",
+      "source": "cloud:gpt-5.6-luna",
+      "latency_seconds": 4.24,
+      "score": {
+        "role_specificity": 2,
+        "evidence_use": 2,
+        "motivation_use": 1,
+        "professionalism": 2,
+        "length_fit": 2,
+        "privacy": 2
+      },
+      "score_total": 11,
+      "score_max": 12,
+      "letter": "Dear Hiring Team,\n\nI am writing to express my interest in the Business Analyst position at FinNova. With six years of experience as a data analyst, I have developed strong capabilities in analysis, dashboard creation, and communication. I am eager to apply these skills in a role that brings me closer to product teams and supports effective collaboration across stakeholders.\n\nIn my current role, I automated a recurring reporting workflow, helping make an ongoing process more efficient and consistent. This experience strengthened my ability to examine workflows, identify opportunities for improvement, and communicate information clearly. I would bring the same thoughtful and practical approach to the coordination, documentation, and communication responsibilities of the Business Analyst position.\n\nI am particularly drawn to this opportunity because it combines analytical work with close collaboration. I enjoy turning information into clear insights and supporting shared understanding among teams. At FinNova, I would welcome the opportunity to contribute to organized processes, well-documented requirements, and productive communication between business and product stakeholders.\n\nThank you for considering my application. I would appreciate the opportunity to discuss how my experience and motivation could support FinNova’s team.\n\nSincerely,\nJosé Ramírez",
+      "case_id": "V04"
+    },
+    {
+      "kind": "cloud",
+      "source": "cloud:gpt-5.6-luna",
+      "latency_seconds": 4.004,
+      "score": {
+        "role_specificity": 2,
+        "evidence_use": 2,
+        "motivation_use": 1,
+        "professionalism": 2,
+        "length_fit": 2,
+        "privacy": 2
+      },
+      "score_total": 11,
+      "score_max": 12,
+      "letter": "Dear Hiring Team,\n\nI am writing to express my interest in the Student Success Coordinator position at STEM Pro. With seven years of experience as a tutor, I have developed a strong commitment to supporting student progress through personalized guidance, thoughtful coordination, and clear communication.\n\nIn my current role, I have supported personalized study plans for 35 students. This experience has strengthened my ability to understand individual needs, organize support around student goals, and communicate effectively with both students and parents. I also bring skills in scheduling and student support, which align well with the coordination responsibilities of this position.\n\nI care deeply about helping students make meaningful progress and ensuring that communication is clear, consistent, and supportive. The opportunity to contribute to STEM Pro’s student success efforts is especially appealing because the role combines these priorities with coordination and documentation. I would welcome the chance to apply my experience supporting students and families in a setting focused on their continued development.\n\nThank you for considering my application. I would be pleased to discuss how my background in tutoring, personalized study planning, scheduling, and parent communication could contribute to STEM Pro as a Student Success Coordinator.\n\nSincerely,\nLucía Herrera",
+      "case_id": "V05"
+    },
+    {
+      "kind": "cloud",
+      "source": "cloud:gpt-5.6-luna",
+      "latency_seconds": 4.779,
+      "score": {
+        "role_specificity": 2,
+        "evidence_use": 2,
+        "motivation_use": 1,
+        "professionalism": 2,
+        "length_fit": 2,
+        "privacy": 2
+      },
+      "score_total": 11,
+      "score_max": 12,
+      "letter": "Dear Hiring Team,\n\nI am writing to express my interest in the Automation Project Manager position at Industrial Future. As a mechatronics engineer with two years of experience in automation, project planning, and vendor coordination, I am eager to take greater ownership of project delivery and contribute to your team.\n\nIn my current role, I have led commissioning activities for an automation cell, developing practical experience in coordinating technical work, supporting implementation, and helping ensure that project activities progress effectively. This experience has strengthened my ability to work across project phases while maintaining clear communication with the people involved.\n\nI am particularly interested in this opportunity because the role combines automation expertise with project coordination, documentation, and communication. I would bring a structured and collaborative approach to planning activities, coordinating vendors, tracking progress, and supporting effective information flow among stakeholders. My engineering background also enables me to understand technical requirements and help connect them with project objectives.\n\nThe opportunity to join Industrial Future appeals to me because it would allow me to build on my hands-on automation experience while taking on broader responsibility for delivery. I am confident that my technical foundation, planning skills, and experience leading commissioning activities would enable me to make a positive contribution as an Automation Project Manager.\n\nThank you for considering my application. I would welcome the opportunity to discuss how my experience and motivation align with the needs of Industrial Future.\n\nKind regards,\nDiego Morales",
+      "case_id": "V06"
+    },
+    {
+      "kind": "cloud",
+      "source": "cloud:gpt-5.6-luna",
+      "latency_seconds": 3.255,
+      "score": {
+        "role_specificity": 2,
+        "evidence_use": 2,
+        "motivation_use": 1,
+        "professionalism": 2,
+        "length_fit": 2,
+        "privacy": 2
+      },
+      "score_total": 11,
+      "score_max": 12,
+      "letter": "Dear Hiring Team,\n\nI am writing to express my interest in the Community Manager position at Impact Hub. With three years of experience as an event coordinator, I have developed strong skills in event coordination, partnerships, and community engagement—experience I am eager to apply to building stronger learning communities.\n\nIn my current role, I coordinate speakers and logistics for public events, helping bring people together around shared topics and experiences. This work requires thoughtful planning, clear communication, and reliable follow-through. It has also strengthened my ability to support productive connections among participants, speakers, and partners.\n\nI am particularly drawn to this opportunity because it combines coordination with community-building. Impact Hub’s focus on creating spaces for connection and learning aligns closely with my motivation to help develop stronger learning communities. I would welcome the opportunity to contribute to the planning and delivery of engaging activities while supporting effective communication and documentation.\n\nI bring a professional, organized, and people-focused approach to my work. I would be pleased to discuss how my experience coordinating public events and engaging with communities could support Impact Hub’s goals.\n\nThank you for your consideration. I look forward to the opportunity to speak with you.\n\nSincerely,\nSofía Castillo",
+      "case_id": "V07"
+    },
+    {
+      "kind": "cloud",
+      "source": "cloud:gpt-5.6-luna",
+      "latency_seconds": 3.177,
+      "score": {
+        "role_specificity": 2,
+        "evidence_use": 2,
+        "motivation_use": 1,
+        "professionalism": 2,
+        "length_fit": 2,
+        "privacy": 2
+      },
+      "score_total": 11,
+      "score_max": 12,
+      "letter": "Dear Hiring Manager,\n\nI am writing to express my interest in the Operations Coordinator position at Green Supply. With four years of experience as a logistics planner, I have developed strong capabilities in planning, inventory coordination, and process improvement. I am motivated by the opportunity to support dependable operations through thoughtful coordination, clear documentation, and effective communication.\n\nIn my current role, I focus on organizing activities and helping ensure that operational responsibilities move forward reliably. One improvement I introduced was a new checklist process that reduced missed handoffs. This experience strengthened my appreciation for practical, repeatable systems that help teams stay aligned and reduce avoidable gaps in execution.\n\nThe responsibilities described for this position are a strong match for my background and interests. I would welcome the opportunity to contribute my planning experience, attention to operational details, and commitment to improving dependable processes at Green Supply. I am particularly drawn to work that supports consistent coordination and clear communication across activities and teams.\n\nThank you for considering my application. I would be pleased to discuss how my experience and approach could support Green Supply as an Operations Coordinator.\n\nSincerely,\nAndrés Gómez",
+      "case_id": "V08"
+    },
+    {
+      "kind": "cloud",
+      "source": "cloud:gpt-5.6-luna",
+      "latency_seconds": 3.684,
+      "score": {
+        "role_specificity": 2,
+        "evidence_use": 2,
+        "motivation_use": 1,
+        "professionalism": 2,
+        "length_fit": 2,
+        "privacy": 2
+      },
+      "score_total": 11,
+      "score_max": 12,
+      "letter": "Dear Hiring Committee,\n\nI am writing to apply for the Program Officer position at Global Learning. With five years of experience as a program assistant, I have developed practical skills in program coordination, monitoring, and facilitation, along with a strong commitment to supporting effective social-impact programs.\n\nIn my current role, I have helped deliver youth workshops across three communities. This experience has strengthened my ability to coordinate activities, support communication among stakeholders, and contribute to organized and engaging program delivery. It has also given me an appreciation for the importance of careful monitoring and clear documentation in understanding progress and supporting continuous improvement.\n\nI am particularly interested in this opportunity because it would allow me to take on greater responsibility in social-impact programs. The Program Officer role’s focus on coordination, documentation, and communication aligns well with my experience and the skills I am motivated to continue developing. I would welcome the opportunity to contribute to Global Learning’s work while supporting programs that are thoughtfully planned, well documented, and responsive to community needs.\n\nThank you for considering my application. I would be pleased to discuss how my background in program support, facilitation, and monitoring could contribute to the Program Officer role at Global Learning.\n\nSincerely,\nPaola Reyes",
+      "case_id": "V09"
+    },
+    {
+      "kind": "cloud",
+      "source": "cloud:gpt-5.6-luna",
+      "latency_seconds": 4.355,
+      "score": {
+        "role_specificity": 2,
+        "evidence_use": 2,
+        "motivation_use": 1,
+        "professionalism": 2,
+        "length_fit": 2,
+        "privacy": 2
+      },
+      "score_total": 11,
+      "score_max": 12,
+      "letter": "Dear Hiring Manager,\n\nI am writing to express my interest in the Maintenance Planner position at PlantWorks. With six years of experience as a Maintenance Engineer, I have developed practical expertise in maintenance planning, troubleshooting, and documentation. I am now eager to focus more directly on planning and reliability, and I believe this opportunity aligns well with my experience and professional goals.\n\nIn my current role, I created preventive-maintenance tracking for critical assets. This work strengthened my ability to organize maintenance activities, maintain clear records, and support a structured approach to equipment reliability. It also reinforced the importance of timely communication and accurate documentation when coordinating maintenance work.\n\nThe responsibilities outlined for this position—coordination, documentation, and communication—match the capabilities I have developed throughout my career. I would bring a practical understanding of maintenance needs, a methodical approach to planning, and a strong interest in helping teams complete work effectively and consistently.\n\nI am particularly interested in PlantWorks because the Maintenance Planner role would allow me to build on my engineering experience while contributing more fully to preventive maintenance and reliability-focused activities. I would welcome the opportunity to discuss how my background and motivation could support your maintenance team.\n\nThank you for your time and consideration. I look forward to the possibility of speaking with you.\n\nSincerely,\nMiguel Torres",
+      "case_id": "V10"
+    },
+    {
+      "kind": "cloud",
+      "source": "cloud:gpt-5.6-luna",
+      "latency_seconds": 3.737,
+      "score": {
+        "role_specificity": 2,
+        "evidence_use": 2,
+        "motivation_use": 2,
+        "professionalism": 2,
+        "length_fit": 2,
+        "privacy": 2
+      },
+      "score_total": 12,
+      "score_max": 12,
+      "letter": "Dear Hiring Team,\n\nI am writing to apply for the Implementation Coordinator position at CloudWorks. With seven years of experience as a Customer Success Specialist, I have developed strong capabilities in onboarding, client communication, issue tracking, and documentation—skills that align well with the coordination and communication needs of this role.\n\nIn my current work, I have improved onboarding documentation for new clients, helping create a clearer and more structured experience for people navigating new processes. This experience has strengthened my attention to detail and my ability to communicate information in a practical, accessible way. I am also comfortable tracking issues, following through on open items, and maintaining clear communication with clients throughout their experience.\n\nI enjoy guiding people through complex processes and helping them feel informed and supported. The opportunity to contribute these strengths in an implementation-focused role at CloudWorks is especially appealing to me. I would welcome the chance to support effective coordination, thoughtful documentation, and positive client experiences as part of your team.\n\nThank you for considering my application. I look forward to the opportunity to discuss how my background and approach could contribute to CloudWorks.\n\nSincerely,\nValeria Cruz",
+      "case_id": "V11"
+    },
+    {
+      "kind": "cloud",
+      "source": "cloud:gpt-5.6-luna",
+      "latency_seconds": 3.967,
+      "score": {
+        "role_specificity": 2,
+        "evidence_use": 2,
+        "motivation_use": 2,
+        "professionalism": 2,
+        "length_fit": 2,
+        "privacy": 2
+      },
+      "score_total": 12,
+      "score_max": 12,
+      "letter": "Dear Hiring Team,\n\nI am excited to apply for the STEM Program Manager position at Future Makers. As a lab instructor with two years of experience in STEM education, mentoring, and event organization, I have developed a strong foundation in creating engaging learning experiences and supporting students as they explore practical applications of STEM.\n\nIn my current role, I have organized interdisciplinary student showcases, coordinating opportunities for students to present their work and connect ideas across subject areas. This experience has strengthened my ability to manage moving parts, communicate with diverse participants, and support well-organized educational events. I would bring the same thoughtful coordination and attention to detail to Future Makers’ programs, along with a commitment to clear documentation and communication.\n\nI am particularly drawn to Future Makers because I want to expand access to practical STEM learning. The opportunity to help coordinate programs that make STEM more accessible and meaningful aligns closely with my experience and professional goals. My background in mentoring has also taught me the importance of encouraging curiosity, building confidence, and adapting support to meet learners’ needs.\n\nI would welcome the opportunity to contribute my experience in STEM education, event organization, and student engagement to Future Makers as STEM Program Manager. Thank you for considering my application. I look forward to the possibility of discussing how my background can support your programs and mission.\n\nSincerely,\nFernando Díaz",
+      "case_id": "V12"
+    },
+    {
+      "kind": "cloud",
+      "source": "cloud:gpt-5.6-luna",
+      "latency_seconds": 3.824,
+      "score": {
+        "role_specificity": 2,
+        "evidence_use": 2,
+        "motivation_use": 1,
+        "professionalism": 2,
+        "length_fit": 2,
+        "privacy": 2
+      },
+      "score_total": 11,
+      "score_max": 12,
+      "letter": "Dear Hiring Team,\n\nI am excited to apply for the Partnerships Coordinator position at Social Impact Network. With three years of experience as an account executive, I have developed strong skills in partnerships, presentations, and relationship management that I would be eager to bring to your team.\n\nIn my current role, I manage partner follow-ups across multiple campaigns, helping maintain clear communication and consistent engagement throughout each initiative. This experience has strengthened my ability to coordinate details, document progress, and build positive working relationships with partners and stakeholders. I am also comfortable presenting information clearly and adapting communication to support shared goals.\n\nI am particularly drawn to Social Impact Network because of its focus on mission-driven partnerships. The opportunity to contribute to work that creates meaningful impact is highly motivating, and I would welcome the chance to support your partnerships through thoughtful coordination, organized documentation, and responsive communication.\n\nI believe my account management background, attention to follow-through, and genuine interest in collaborative partnerships would allow me to contribute effectively as a Partnerships Coordinator. Thank you for considering my application. I would appreciate the opportunity to discuss how my experience and motivation align with the needs of Social Impact Network.\n\nSincerely,\nGabriela Soto",
+      "case_id": "V13"
+    },
+    {
+      "kind": "cloud",
+      "source": "cloud:gpt-5.6-luna",
+      "latency_seconds": 3.919,
+      "score": {
+        "role_specificity": 2,
+        "evidence_use": 2,
+        "motivation_use": 1,
+        "professionalism": 2,
+        "length_fit": 2,
+        "privacy": 2
+      },
+      "score_total": 11,
+      "score_max": 12,
+      "letter": "Dear Hiring Team,\n\nI am writing to express my interest in the Renewable Energy Project Coordinator position at Solar Forward. As an electrical engineer with four years of experience, I am eager to apply my technical background and coordination skills to support the successful delivery of renewable-energy projects.\n\nIn my current role, I have developed experience in technical documentation, scheduling, and site coordination. I have also supported the delivery of a commercial solar installation, gaining practical exposure to the organization, communication, and follow-through required to move a project forward. This experience has strengthened my ability to work across technical and operational activities while maintaining attention to project requirements.\n\nThe responsibilities outlined for this position—coordination, documentation, and communication—align closely with my existing skills and professional interests. I would welcome the opportunity to contribute to Solar Forward by helping organize project activities, maintain clear and accurate documentation, and support effective communication among project stakeholders.\n\nI am particularly motivated to grow in renewable-energy project delivery. Solar Forward’s focus presents an exciting opportunity to build on my electrical engineering experience while contributing to work that supports the continued development of renewable energy. I would bring a dependable, organized, and collaborative approach to the role, along with a genuine interest in supporting projects from planning through delivery.\n\nThank you for considering my application. I would welcome the opportunity to discuss how my experience and motivation align with the Renewable Energy Project Coordinator position at Solar Forward.\n\nKind regards,\nRicardo Fuentes",
+      "case_id": "V14"
+    },
+    {
+      "kind": "cloud",
+      "source": "cloud:gpt-5.6-luna",
+      "latency_seconds": 4.728,
+      "score": {
+        "role_specificity": 2,
+        "evidence_use": 2,
+        "motivation_use": 0,
+        "professionalism": 2,
+        "length_fit": 2,
+        "privacy": 2
+      },
+      "score_total": 10,
+      "score_max": 12,
+      "letter": "Dear Hiring Team,\n\nI am writing to apply for the Learning Programs Coordinator position at Open Learning. With five years of experience as a youth facilitator, I have developed a strong foundation in creating supportive learning environments, assisting with curriculum delivery, and communicating effectively with families.\n\nIn my current role, I facilitate weekly learning sessions for teenagers. This work has strengthened my ability to engage young people, support varied learning needs, and contribute to consistent, meaningful educational experiences. My experience in facilitation and curriculum support would enable me to contribute thoughtfully to the coordination of learning programs, while my family communication skills align closely with the collaborative nature of this role.\n\nI am particularly motivated by the opportunity to help build inclusive education programs. I value learning environments where young people feel respected, encouraged, and able to participate fully. I would welcome the opportunity to bring my practical experience, warm communication style, and commitment to inclusive education to Open Learning.\n\nThank you for considering my application. I would be pleased to discuss how my background and motivation could support your learning programs.\n\nKind regards,\nElena Vásquez",
+      "case_id": "V15"
+    }
+  ],
+  "summary": {
+    "cloud": {
+      "n": 15,
+      "mean_score": 11.07,
+      "mean_latency_seconds": 4.144
+    }
+  }
+}
